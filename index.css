@@ -686,7 +686,7 @@ body{
   font-weight:bold;
 }
 /*Package Section*/
- body { background:#111; color:#fff; font-family:sans-serif; padding:40px 20px; }
+.package-section { background:#111; color:#fff; font-family:sans-serif; padding:40px 20px; }
     h2 { text-align:center; font-size:36px; margin-bottom:10px; background:linear-gradient(to right,#00f5ff,#38ef7d); -webkit-background-clip:text; -webkit-text-fill-color:transparent;}
     .pricing-sub { text-align:center; color:#aaa; margin-bottom:30px; }
 
